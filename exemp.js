@@ -23,7 +23,7 @@ function exibeResposta(reqAjax){
             var siglaDado = dados.disciplina.sigla;
             var nomeDado = dados.disciplina.nome;
 
-            var sigla = document.createElemente("h3");
+            var sigla = document.createElement("h3");
             var textoSigla = document.createTextNode(siglaDado);
             sigla.appendChild(textoSigla);
 
