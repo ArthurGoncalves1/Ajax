@@ -1,0 +1,14 @@
+[{
+    "ponto_turistico": "Cristo Redentor",
+    "cidade": "Rio de Janeiro",
+    "pais" : "Brasil"
+}, {
+    "ponto_turistico": "Torre Eiffel",
+    "cidade": "Paris",
+    "pais" : "França"
+}, {
+    "ponto_turistico": "Coliseu",
+    "cidade": "Roma",
+    "pais" : "Itália"
+}
+]
