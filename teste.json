@@ -1,6 +1,5 @@
-[{
-    "ponto_turistico": "Cristo Redentor",
-    "cidade": "Rio de Janeiro",
-    "pais" : "Brasil"
+{   "disciplina" :{
+    "sigla" : "DW1A3",
+    "nome" : "Desenvolvimento web"
+    }
 }
-]
